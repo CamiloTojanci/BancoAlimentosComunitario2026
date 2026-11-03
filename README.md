@@ -13,3 +13,10 @@ He creado Despensa, una aplicación sencilla en español para registrar donacion
 
 Importante:
 La información se guarda en el navegador de este dispositivo, así que no se comparte automáticamente entre voluntarios. Los recibos fiscales quedan fuera del alcance del sistema y de los donantes
+
+INSTRUCCIONES DE USO:
+1 -Para iniciar a usar la funcionalidades del sistema DESPENSA, hay que crear mínimo una familia con el correspondiente número de integrantes en el apartado Familias.
+2- Se debe realizar el registro de las donaciones en el inventario del sistema DESPENSA, en el apartado Inventario, especificando los alimentos donados, cantidad, fecha de vencimiento y persona que realizó la donación para llevar un registro preciso sobre el inventario.
+3- Realizar la entrega, en el apartado Entregas, seleccionando a una familia ya registrada, teniendo en cuenta seleccionar los alimentos y la cantidad, dependiendo del disponible en los inventarios, teniendo en cuenta la fecha de vencimiento y automáticamente se realiza el registro de la fecha de entrega.
+
+Finalmente todo se puede revisar desde el apartado de Resumen donde aparecen listadas las entregas realizadas a las familias ordenadas por fecha de entrega.
