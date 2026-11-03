@@ -70,3 +70,7 @@ Objetivos: conocer sus tareas, registrar movimientos correctamente y colaborar s
 Necesita: pasos simples y acceso solo a la información necesaria para su labor.
 
 Supuesto de alcance: la organización comunitaria es el cliente ideal del sistema; coordinadores, voluntarios y beneficiarios son perfiles de usuario con necesidades distintas. 
+
+## Especificación de la característica
+
+La propuesta de seguimiento de donantes, familias y entregas, incluidos sus criterios de aceptación y métricas de éxito, se encuentra en [docs/SPEC-seguimiento-donaciones-y-entregas.md](docs/SPEC-seguimiento-donaciones-y-entregas.md).
